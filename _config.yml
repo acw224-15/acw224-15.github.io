@@ -1,6 +1,6 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Alexander Weissman # your name (or website title) here
+logo: "/images/Alex Weissman.HEIC?raw=true" # your photo (or logo) here
+description: Student at Lehigh University studying Finance and Economics > # your text below (remove <br> elements if you don't need line breaks)
   Edit these links below   
   <br>
   in _config.yml 

@@ -2,10 +2,6 @@ title: Alexander Weissman # your name (or website title) here
 logo: "/images/Alex Weissman.png ?raw=true" # your photo (or logo) here
 description: |
   Student at Lehigh University studying Finance and Economics
-  Edit these links below
-  in _config.yml
-
-links:
   - name: LinkedIn
     url: https://www.linkedin.com/in/alexander-weissman-49b391207/
   - name: Resume

@@ -16,5 +16,7 @@ description: |
   <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
   <br>
   <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
+  <br>
+  <a href="excel_work.html" target="_blank">Excel Work</a> <!-- This link will open the excel_work.html page in a new tab -->
 
 theme: jekyll-theme-minimal

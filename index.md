@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Alexander Weissman, I am a senior at Lehigh Studying Finance and Economics. 
+My name is Alexander Weissman, I am a senior at Lehigh Studying Finance and Economics. This past Summer I took and passed CFA level 1, and am planning to take level 2 November of this year. I served 1 term as IFC President, and was nominated for 4 different awards for my work in that capacity. 
 
 <!-- Upload your own photo and change the path -->
 
@@ -18,7 +18,7 @@ _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/Alex Weissman.png?raw=true"/>
+
 
 ---
 

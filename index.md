@@ -6,7 +6,7 @@ My name is Alexander Weissman, I am a senior at Lehigh Studying Finance and Econ
 
 <p style="text-align:center;">
   <img class="img-circle" src="images/Alex Weissman.png" width="50%">
-</p>
+</p> 
 
 ---
 

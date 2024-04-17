@@ -5,7 +5,7 @@ My name is Alexander Weissman, I am a senior at Lehigh Studying Finance and Econ
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="images/Alex Weissman.png" width="50%">
 </p>
 
 ---
@@ -43,10 +43,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 ---
 
 ## Career Objectives
-
-Write what you want. 
-
-Sell yourself!
+I would like to work on an equity research team at a bank. 
 
 ---
 

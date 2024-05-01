@@ -19,7 +19,7 @@ I found what I might expect to find in a natural language processing of 10-K dat
 
 _**[Do members of Congress play the stock market? And, more importantly, do they win?](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cum.png?raw=true"/>
 
 ---
 

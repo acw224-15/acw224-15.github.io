@@ -27,20 +27,20 @@ _**[Do members of Congress play the stock market? And, more importantly, do they
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Personal DCF on Carnival](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ## Career Objectives
-I would like to work on an equity research team at a bank. 
+My goal is to work as an equity research analyst. I am interested because the position offers a flatter organizational structure, fostering an entrepreneurial spirit that allows for creativity and innovation. I am driven by the desire to become an expert in a field, and the in-depth analysis required in equity research presents an ideal opportunity for this pursuit. Moreover, I believe that immersing myself in the rigorous process of analyzing stocks within a dynamic market environment is the most effective way to develop invaluable analytical skills and gain practical insights into investment strategies.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+In my free time I love to read. I used to read as a kid, and recently I've picked up the habbit again, with the goal to read 20 books this year. My favorite genre is non fiction, with a focus on history and the financial sector. I also play soccer when I can, and have recently gotten really into tennis. The next sport I want to get better at is golf, but needless to say I am a long way from being what I would consider a "good golfer"
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

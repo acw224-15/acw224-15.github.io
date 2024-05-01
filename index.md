@@ -5,7 +5,7 @@ My name is Alexander Weissman, I am a senior at Lehigh Studying Finance and Econ
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/IMG_3080.png" width="50%">
+  <img class="img-circle" src="images/IMG_3080.pdf" width="50%">
 </p> 
 
 ---

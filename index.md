@@ -28,7 +28,7 @@ I found what I might expect to find in a natural language processing of 10-K dat
 
 _**[Report on why the JetBlue merger wouldn't go through in cotober 2022](JBlue.md)**_
 
-<img src="Plane.jpg?raw=true"/>
+<img src="image/Plane.jpg?raw=true"/>
 Image credit: https://www.cnbc.com/2019/06/20/jetblue-airways-plans-more-flights-to-europe-with-new-long-range-airbus-321xlrjets.html
 
 ---

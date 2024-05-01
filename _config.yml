@@ -7,10 +7,10 @@ description: |
   <br><br>
   <a href="https://www.linkedin.com/in/alexander-weissman-49b391207/">LinkedIn</a> 
   <br>
-  <a href="resume.html">Resume</a>    
+  <a href="images/ACW___Resume MAC CFA.pdf" target="_blank">Resume</a>      
   <br>
   <a href="https://github.com/acw224-15/">GitHub</a>  
   <br>
-  <a href="excel_work.html" target="_blank">Excel Work</a> <!-- This link will open the excel_work.html page in a new tab -->
+  <a href="mailto:alexandercw15@gmail.com"" target="_blank">Email</a> 
 
 theme: jekyll-theme-minimal

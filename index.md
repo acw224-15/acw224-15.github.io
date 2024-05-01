@@ -17,7 +17,7 @@ I found what I might expect to find in a natural language processing of 10-K dat
 <img class="img-circle" src="output_22_0.png" width="50%">
 
 
-_**[Do members of Congress play the stock market? And, more importantly, do they win?](https://donbowen.github.io/teamproject/)**_
+_**[Do members of Congress play the stock market? And, more importantly, do they win?]([https://donbowen.github.io/teamproject/](https://adrianmross-congress-trades-dashboard-srcwelcome-jjluva.streamlit.app/Congress_v._Market))**_
 
 <img src="images/cum.png?raw=true"/>
 

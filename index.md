@@ -3,7 +3,7 @@
 My name is Alexander Weissman, I am a senior at Lehigh Studying Finance and Economics. This past Summer I took and passed CFA level 1, and am planning to take level 2 November of this year. I served 1 as my chapters vice president and 1 term as IFC President, and was nominated for 4 different awards for my work in that capacity, and have won two of them.
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/IMG_3030.png" width="50%">
+  <img class="img-circle" src="images/IMG_3080.png" width="50%">
 </p>
 
 ---

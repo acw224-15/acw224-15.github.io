@@ -16,6 +16,9 @@ My name is Alexander Weissman, I am a senior at Lehigh Studying Finance and Econ
 
 _**[Natural language processing 10-Ks to Look for excess returns](Report.md)**_
 
+I found what I might expect to find in a natural language processing of 10-K data, which is to say not much. Credit to Fama French, as the efficient market hypothesis destroys any opportunity for above-market returns with such a simple approach.
+
+<img class="img-circle" src="output_18_0.png" width="50%">
 
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_

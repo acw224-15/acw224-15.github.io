@@ -14,7 +14,7 @@ _**[Natural language processing 10-Ks to Look for excess returns](Report.md)**_
 
 I found what I might expect to find in a natural language processing of 10-K data, which is to say not much. Credit to Fama French, as the efficient market hypothesis destroys any opportunity for above-market returns with such a simple approach.
 
-<img class="img-circle" src="output_22_0.png" width="50%">
+<img class="img-circle" src="immage/output_22_0.png" width="50%">
 
 
 [Do members of Congress play the stock market? And, more importantly, do they win?](https://adrianmross-congress-trades-dashboard-srcwelcome-jjluva.streamlit.app/Congress_v._Market)

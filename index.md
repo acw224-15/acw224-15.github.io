@@ -27,7 +27,7 @@ _**[Do members of Congress play the stock market? And, more importantly, do they
 
 ---
 
-_**[Personal DCF on Carnival](/pdf/sample_presentation.pdf)**_
+_**[Report on why the JetBlue merger wouldn't go through in cotober 2022](JBlue.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
